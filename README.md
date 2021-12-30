@@ -2,12 +2,10 @@
 
 
 ### About 
- This is a physics simulation engine. The current state of this simulation engine can model forces like gravity, materials like  strings(using these as building blocks other objects can be created) , rotation based on the angular momentum of the bodies and boundary collision detection.
- 
- Particle is the basic building block in this engine(particle.js) and all the calculations are vector based so as to provide readability and faster computation.
- 
- This library has been build using HTML and javascript without using any external libraries and the animations are displayed on the HTML canvas element. Particle, Vector and Utils files contain the core logic of the engine, so these files are imported first in the index.js and our simulation file goes last.
- 
+This is a physics simulation engine. The current state of this simulation engine can model forces like gravity, materials like strings(using these as building blocks other objects can be created), rotation based on the angular momentum of the bodies, and boundary collision detection.
+
+Particle is the basic building block in this engine(particle.js) and all the calculations are vector-based to provide readability and faster computation.This library has been built using HTML and javascript without using any external libraries. The animations are displayed on the HTML canvas element. Particle, Vector, and Utils files contain the core logic of the engine, so these files are imported first in the index.js and our simulation file goes last.
+
  ### Simulations
 
 - Cloth simulation
