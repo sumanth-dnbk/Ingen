@@ -12,10 +12,19 @@
 
 - Cloth simulation
 
-<img src="https://user-images.githubusercontent.com/22196360/147685330-6a9cd954-fc3a-450d-80a8-9ad0e3be7c2b.gif" width='300' height='300' />
+<img src="https://user-images.githubusercontent.com/22196360/147784639-dad5569c-0dd0-45ee-bfbc-fbab1cc9c611.gif" width='300' height='300' />
 
 
-- An object under gravity with boundary collision and angular momentum.
+- A free falling object with rotation.
 
-<img src="https://user-images.githubusercontent.com/22196360/147689126-80383e62-78b5-45c8-be8d-a4761c938de5.gif" width='400' height='300' />
+<img src="https://user-images.githubusercontent.com/22196360/147784653-5dda3d92-87c3-4fe0-a795-66d22bd4d720.gif" width='300' height='300' />
 
+- Planetary simulation
+ 
+ <img src="https://user-images.githubusercontent.com/22196360/147784652-1dcf9cb1-75a9-4d4a-b5b2-453073179548.gif" width='300' height='300' />
+  
+  The object at the center has large gravitational pull and the other objects are initalized with a velocity. The centrifugal force and gravity keep each other balanced.
+  
+- Multiple gravitational pulls on objects in motion
+
+<img src="https://user-images.githubusercontent.com/22196360/147784650-c9b967f9-6d1b-4de7-8adb-962dee94670d.gif" width='300' height='300' />
